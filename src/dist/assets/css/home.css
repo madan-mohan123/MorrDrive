@@ -1,0 +1,31 @@
+#movies{
+    height: 200px;
+    background-image: url('../images/movie.jpg');
+    color: white;
+
+}
+#series{
+    height: 200px;
+    background-image: url('../images/series.jpg');
+    color: white;
+}
+.footer{
+    background-color: rgb(52, 52, 53);
+    color:white;
+}
+.footer a::after{
+    content: '|';
+    padding: 10px;
+}
+
+.tag{
+    background-color: rgb(56, 56, 59);
+    color:white;
+
+}
+.btn{
+    background-color: rgb(78, 76, 76);
+}
+.header{
+    background-color: rgb(140, 3, 238);
+}
